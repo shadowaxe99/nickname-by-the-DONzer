@@ -1,0 +1,9 @@
+The file "datasets/trump_tweets.txt" is a text file and does not contain any code. It should contain the dataset of Donald Trump's tweets. Here is a mockup of how the data might be structured:
+
+```
+Just had a very open and successful presidential election. Now professional protesters, incited by the media, are protesting. Very unfair!
+Had a very good conversation with the newly elected President of Brazil, Jair Bolsonaro, who won his race by a substantial margin. We agreed that Brazil and the United States will work closely together on Trade, Military and everything else! Excellent call, wished him congrats!
+Just spoke to King Salman of Saudi Arabia and explained to him that, because of the turmoil & disfunction in Iran and Venezuela, I am asking that Saudi Arabia increase oil production, maybe up to 2,000,000 barrels, to make up the difference...Prices to high! He has agreed!
+```
+
+Please note that this is just a mockup and the actual data should be collected from a reliable source.
